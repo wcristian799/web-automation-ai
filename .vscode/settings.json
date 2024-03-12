@@ -1,0 +1,13 @@
+{
+    "python.pythonPath": ".venv/bin/python",
+    "editor.formatOnSave": true,
+    "eslint.alwaysShowStatus": true,
+    "files.eol": "\n", 
+    "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+  }
+  
